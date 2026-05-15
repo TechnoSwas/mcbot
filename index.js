@@ -11,7 +11,7 @@ function createBot() {
     port: 25565,
     username: 'fandomboi',
     auth: 'offline',
-    version: false
+    version: '1.21.2'
   })
 
   bot.on('spawn', () => {
