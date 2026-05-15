@@ -8,7 +8,7 @@ app.listen(3000, () => console.log('Web server alive'))
 function createBot() {
   const bot = mineflayer.createBot({
     host: 'sklsmplol.aternos.me',
-    port: 25565,
+    port: 22717,
     username: 'fandomboi',
     auth: 'offline',
     version: '1.21.4'
